@@ -1,5 +1,21 @@
 # @graphql-mesh/neo4j
 
+## 0.12.0
+
+### Minor Changes
+
+- 885ea439a: New MeshStore approach
+- 885ea439a: feat(neo4j): better schema inference
+
+### Patch Changes
+
+- Updated dependencies [885ea439a]
+- Updated dependencies [d8051f87d]
+- Updated dependencies [d8051f87d]
+  - @graphql-mesh/store@0.1.0
+  - @graphql-mesh/types@0.43.0
+  - @graphql-mesh/utils@0.13.0
+
 ## 0.11.6
 
 ### Patch Changes
